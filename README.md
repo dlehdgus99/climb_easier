@@ -1,8 +1,8 @@
-# Bouldering Assistant
+# Climb easier
 
 ## Project Overview
 
-The Bouldering assistant trains and utilizes the trained detection model to detect climbing holds from wall images with high precision and recall. It includes three main functionalities:
+The climb easier project trains and utilizes the trained detection model to detect climbing holds from wall images with high precision and recall. It includes three main functionalities:
 1. **Detect holds:** Detects climbing holds in an image
 2. **Generate Climb:** Generates climbing routes based on detected holds in an image.
 3. **Simplify Climb:** Simplifies the visualization of climbing routes by highlighting holds that match specified colors, thus reducing visual clutter and focusing on particular climbing paths.
